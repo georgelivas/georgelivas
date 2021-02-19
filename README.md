@@ -26,7 +26,7 @@
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=georgelivas&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=georgelivas&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 <!--
 **georgelivas/georgelivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
